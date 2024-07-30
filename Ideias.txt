@@ -1,0 +1,25 @@
+Ok, vamos lá, vou falar as funcionalidades que me parecem interessantes:
+
+1. Comunicação Multicanal, para enfermeiros conseguirem acessar as coisas do sistema até em seus smartphones pessoais.
+
+
+
+
+
+2. Priorização de Chamadas: Uma funcionalidade onde o paciente dirá entre alguns motivos pré-definidos e com diferentes graus de urgência o porquê dessa chamada estar sendo realizada.
+
+3. Cronômetro: Para avaliar os enfermeiros, assim que o botão de chamada for acionado irá começar a contar o tempo até que o atendimento seja realizado.
+
+4.  Integração com Prontuário eletrônico: A equipe de enfermagem poder acessar dados úteis para o atendimento do paciente. Coisas como: alergias, alguma doença tipo cardíaca ou diabetes... E por aí vai.
+
+5. Tradução: É importante, para caso algum paciente seja estrangeiro e tenha sido internado com urgência em um país que não fala a sua língua, que o sistema ofereça tradução facilitada e imediata para a solicitação do atendimento.
+
+6. Monitoramento de sinais vitais: O sistema pode ser integrado a sensores para coletar dados de pressão arterial, frequência cardíaca, temperatura e outros parâmetros. Dessa forma, poderia ser configurado que caso tenha alguma mudança brusca em algum desses parâmetros, a chamada fosse realizada sem nem mesmo com que o paciente precise solicitar o atendimento.
+
+7. Detecção de quedas: Sensores no leito ou no quarto podem detectar quedas do paciente e enviar alertas imediatos para a equipe de enfermagem, possibilitando um atendimento rápido em situações de emergência.
+
+8. Entretenimento: Talvez seja interessante agregar na plataforma de chamada de enfermagem a possibilidade do paciente buscar formas de entretenimento online. Algum jogo interativo, videos no YouTube... Coisas assim. Pensei em bloquear funções por exemplo notícias, porque pode fazer mal para o paciente.
+
+9. Monitoramento de câmeras: Câmeras de segurança integradas ao sistema podem fornecer à equipe de enfermagem uma visão geral do quarto do paciente, permitindo monitorar sua segurança e bem-estar à distância.
+
+10. Algoritmo de Priorização Inteligente: Implementar um algoritmo inteligente que analise diversos fatores, como tipo de solicitação do paciente, histórico médico, sinais vitais e outros dados relevantes, para priorizar automaticamente as chamadas e garantir que os casos mais urgentes sejam atendidos primeiro. Isso pode ajudar a salvar vidas em situações críticas, otimizando o tempo da equipe de enfermagem e direcionando os recursos de forma mais eficaz.
